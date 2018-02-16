@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="play">Play</string>
+    <string name="tictactoe">Tic-Tac-Toe</string>
+    <string name="rules">Rules</string>
+    <string name="description">-Click any open button in order to make your move.
+       \n \n-You will be Xs, and the computer AI will be Os.
+        \n \n-The player to 3 in a row, either diagonally, vertically, or horizontally wins.
+        \n \n-Please enter name, then press play to begin!!</string>
+    <string name="name">Enter Name</string>
+    <string name="reset">Reset</string>
+</resources>
